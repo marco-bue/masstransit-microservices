@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderService", "OrderService\OrderService.csproj", "{00FF11B8-97B5-458F-A452-CC96590C722A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contracts", "Contracts\Contracts.csproj", "{F46472FC-CA38-4059-9AD6-3003E18F688E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtherServicesSimulation", "OtherServicesSimulation\OtherServicesSimulation.csproj", "{0B448DF9-FC08-40ED-9493-749E6A05CB7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00FF11B8-97B5-458F-A452-CC96590C722A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00FF11B8-97B5-458F-A452-CC96590C722A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00FF11B8-97B5-458F-A452-CC96590C722A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00FF11B8-97B5-458F-A452-CC96590C722A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F46472FC-CA38-4059-9AD6-3003E18F688E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F46472FC-CA38-4059-9AD6-3003E18F688E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F46472FC-CA38-4059-9AD6-3003E18F688E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F46472FC-CA38-4059-9AD6-3003E18F688E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B448DF9-FC08-40ED-9493-749E6A05CB7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B448DF9-FC08-40ED-9493-749E6A05CB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B448DF9-FC08-40ED-9493-749E6A05CB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B448DF9-FC08-40ED-9493-749E6A05CB7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
